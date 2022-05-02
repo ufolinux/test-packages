@@ -8039,7 +8039,7 @@ EOF
 	"Ufo"*)
             set_colors 4 7 1
             read -rd '' ascii_data <<'EOF'
-${cl}
+${c1}
              \  _.-'~~~~'-._   /
       .      .-~ \__/  \__/ ~-.         .
            .-~   (oo)  (oo)    ~-.
